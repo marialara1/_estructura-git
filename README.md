@@ -1,4 +1,4 @@
-# **[REPLACE (Nombre del proyecto)Estructura de Proyecto]**
+# **[Estructura de Proyecto]**
 
 ## **Objetivo**
 
